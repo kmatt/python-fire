@@ -45,7 +45,7 @@ from fire import formatting
 from fire import inspectutils
 from fire import value_types
 
-LINE_LENGTH = 80
+LINE_LENGTH = 132
 SECTION_INDENTATION = 4
 SUBSECTION_INDENTATION = 4
 
